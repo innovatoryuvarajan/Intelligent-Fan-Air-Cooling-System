@@ -1,0 +1,47 @@
+[System]
+Name='myflcc'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=9
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='Indoor Temperature'
+Range=[15 35]
+NumMFs=3
+MF1='Cold':'trimf',[6.67 15 23.33]
+MF2='Normal':'trimf',[16.67 25 33.33]
+MF3='Hot':'trimf',[26.67 35 43.33]
+
+[Input2]
+Name='Outdoor Temperature'
+Range=[12 40]
+NumMFs=3
+MF1='cold':'trimf',[0.3336 12 23.66]
+MF2='normal':'trimf',[14.34 26 37.66]
+MF3='hot':'trimf',[28.34 40 51.66]
+
+[Output1]
+Name='Speed of the Fan'
+Range=[16 30]
+NumMFs=3
+MF1='low':'trimf',[13.08 16 18.92]
+MF2='normal':'trimf',[16.58 19.5 22.42]
+MF3='fast':'trimf',[20.08 23 25.92]
+
+[Rules]
+1 1, 1 (1) : 1
+1 2, 1 (1) : 1
+2 2, 2 (1) : 1
+3 2, 3 (1) : 1
+1 3, 2 (1) : 1
+2 3, 3 (1) : 1
+3 3, 3 (1) : 1
+2 1, 2 (1) : 1
+3 1, 2 (1) : 1
