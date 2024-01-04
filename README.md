@@ -19,3 +19,26 @@ BLDC motor runs on low current so can run longer on solar, regular, and inverter
 •	Power factor-0.98
 •	Bearing-ZZ shielded double ball bearing
 •	Remote-speed control and booster mode.
+
+#                                            BLOCKS AND OPERATIONS
+
+~ Fuzzy Logic Controller
+
+~ Default BLDC Controller
+
+#                                           Fuzzy Logic Controller
+
+*The Fuzzy Logic Controller block implements a fuzzy inference system (FIS) in Simulink®. You specify the FIS to evaluate using the FIS name parameter.
+
+*For more information on fuzzy inference, see Fuzzy Inference Process.
+
+*To display the fuzzy inference process in the Rule Viewer during simulation, use the Fuzzy Logic Controller with Ruleviewer block.
+
+*Here we using a fuzzy logic in between two areas(outdoor temperature & indoor temperature) these two different temperatures are detected by using temperature sensors(LM35)
+
+*After mesuring the temperature it will headed to constant temperature
+
+*And then dependimg upon the temperature RPM controls takes part
+
+*It is the main challenge to intelligent fan 
+
