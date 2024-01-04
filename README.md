@@ -52,3 +52,16 @@ BLDC motor runs on low current so can run longer on solar, regular, and inverter
 
 Temperature proportional speed control is accomplished using pulse width modulation(PWM). The input value of temperature is proportional to the speed, and set the calibration range according to the speed requirement.
 
+#                                    COATINGS
+
+* We introducing the specific coating for cooling system
+
+* By using used ultra-white and ultra-emissive magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) nano-composite prepared from materials that are earth abundant, cheap, non-toxic and non-harmful
+
+*Initially, polymer powders were transformed into a solution using solvent and then, dielectric nanoparticles are dispersed inside the polymer matrix. After preparation, different spectroscopic techniques were used to characterize the optical properties of the prepared polymer nanocomposite paint. 
+
+*The optimized MgO-PVDF with a dielectric nanoparticles resulted in large solar reflectance of 96.3% and a record high thermal emission of 98.5% due to Mg─O bond vibrations, and other stretching/bonding vibrations from the polymer
+
+* The nanocomposite paint exhibited water-resistant hydrophobic properties and can be easily coated on stainless steel and so on with high uniformity and good adhesion
+
+*“Our innovative research has led to the development of a cost-effective and environmentally sustainable paint capable of reducing surface temperatures (including buildings, tiles, pavers, etc.) by over 10°C during hot summer day.
