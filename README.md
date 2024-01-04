@@ -54,7 +54,7 @@ Temperature proportional speed control is accomplished using pulse width modulat
 
 #                                    COATINGS
 
-* We introducing the specific coating for cooling system
+* We introducing the specific coating for cooling system in fan blades
 
 * By using used ultra-white and ultra-emissive magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) nano-composite prepared from materials that are earth abundant, cheap, non-toxic and non-harmful
 
