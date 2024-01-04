@@ -36,9 +36,19 @@ BLDC motor runs on low current so can run longer on solar, regular, and inverter
 
 *Here we using a fuzzy logic in between two areas(outdoor temperature & indoor temperature) these two different temperatures are detected by using temperature sensors(LM35)
 
+*Temperature Sensor:
+                 We are using LM 35 as temperature sensor. LM 35 is a precision
+                temperature sensor whose output is linearly proportional to
+                Celsius Temperature. The LM35 is rated to operate from -55°
+                Centigrade to 150° Centigrade with a linear scale factor of +10mv/° C
+
 *After mesuring the temperature it will headed to constant temperature
 
 *And then dependimg upon the temperature RPM controls takes part
 
 *It is the main challenge to intelligent fan 
+
+#                               Temperature based Speed Control of BLDC Fan
+
+Temperature proportional speed control is accomplished using pulse width modulation(PWM). The input value of temperature is proportional to the speed, and set the calibration range according to the speed requirement.
 
