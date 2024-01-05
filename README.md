@@ -21,6 +21,7 @@ BLDC motor runs on low current so can run longer on solar, regular, and inverter
 #                                             Novelty
 1. We made Nanocomposite paint coating by using **Novel magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) polymer** , comparatively provides the cool air which is used to attain the required temperature by low power consumption.
 2. Here we using innovative fuzzy logic controller parameters and dynamic power gain parameters, thus we can able to change the RPM of the fan based on our needs.
+3. we can able to maintain the room in constant temperature throughout the day & there will be no need to operate to fan in full speed during night time. A small step to sustainability development. 
 
 
 
@@ -87,3 +88,9 @@ Temperature proportional speed control is accomplished using pulse width modulat
 * The nanocomposite paint exhibited water-resistant hydrophobic properties and can be easily coated on stainless steel and so on with high uniformity and good adhesion
 
 *“Our innovative research has led to the development of a cost-effective and environmentally sustainable paint capable of reducing surface temperatures (including buildings, tiles, pavers, etc.) by over 10°C during hot summer day.
+
+# Further Development:
+1. power the fan by using smart grid mechanism for sustainability development.
+2. Making the fan more intelligent by using iot technology.
+3. Controlling the fan speed as per human density inside the room by mesuring their body temperature.
+
