@@ -3,6 +3,12 @@ Repository for MATLAB simulink challenge project hub sustainability and renemabl
 Night-time temperatures are generally lower than daytime temperatures. we are modelling a simple fan mechanism that **pumps-in** or **extracts air** based on temperature differential between inside and outside.  
 The cooler night-time air can be used to bring down the temperature of air and capacitive elements within the house. Over the course of the day, the air and the cooler structure will keep temperatures lower, until it crosses the evening or night-time temperatures
 
+# Explanation video:
+
+[![Intelligent-Fan-Air-Cooling-System](https://img.youtube.com/vi/BMIiCEvg3oU/0.jpg)](https://www.youtube.com/watch?v=BMIiCEvg3oU)
+
+
+
 #                                   REAL WORLD APPLICABILITY OF THE APPROACH ADOPTED
 
 1. A closed-loop controller receives power from the BLDC via an inverter.
@@ -14,7 +20,8 @@ BLDC motor runs on low current so can run longer on solar, regular, and inverter
 
 #                                             Novelty
 1. We made Nanocomposite paint coating by using **Novel magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) polymer** , comparatively provides the cool air which is used to attain the required temperature by low power consumption.
-2. Here we using innovative fuzzy logic controller parameters and dynamic power gain parameters, thus we can able to change the RPM of the fan based on our needs. 
+2. Here we using innovative fuzzy logic controller parameters and dynamic power gain parameters, thus we can able to change the RPM of the fan based on our needs.
+
 
 
 #                                          SPECIFICATION OF BLDC FAN:
