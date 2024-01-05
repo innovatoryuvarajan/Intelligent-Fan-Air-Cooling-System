@@ -9,7 +9,7 @@ The cooler night-time air can be used to bring down the temperature of air and c
 
 
 
-#                                   REAL WORLD APPLICATION OF THE ADOPTED APPROACH 
+# Real World Application of the Adopted Approach
 * Step into a future where comfort meets sustainability. Our Intelligent Fan Air Cooling System isn't merely a concept; it's a revolution in home climate control.
 * Imagine a home where the fan isn't simply a device; it's an intelligent companion. By utilizing night-time cool air, it actively regulates temperatures, reducing the need for energy-intensive cooling during the day.
 * Why this project? It's not solely about efficiency; it's a commitment to sustainable living. The BLDC motor, powered by solar and conventional sources, signifies a shift towards cleaner, longer-lasting technology. It's not merely a motor; it's a greener tomorrow.
@@ -18,14 +18,14 @@ The cooler night-time air can be used to bring down the temperature of air and c
 * The Temperature Sensor isn't merely a gadget; it's a guardian of your comfort. Sensing shifts in temperature, it communicates with the fan, ensuring a constant, soothing environment. It's not merely a sensor; it's a silent sentinel.
 * Why embark on this journey? It's not just about innovation; it's about a better quality of life. By reducing the need for full-speed operation at night, our system is a small yet impactful step towards sustainability. It's not merely a project; it's a path to a harmonious coexistence with nature.And what lies ahead? We don't merely stop; we evolve. Integrating smart grid mechanisms, IoT technology, and human density-based speed control, our vision extends beyond the ordinary. It's not merely about the fan; it's about a future where technology adapts to human needs.
 
-#                                             Novelty
+# Novelty
 1. We have made Nanocomposite paint coating by using **Novel magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) polymer** , which comparatively provides the cooler air which is used to attain the required temperature through low power consumption.
 2. Here we are using innovative fuzzy logic controller parameters and dynamic power gain parameters, hence we can able to change the RPM of the fan according to our needs.
 3. We shall maintain the temperature of the room in constant throughout the day & there will be no need of operating the fan in full speed during night time. This serves as a small step towards the sustainability development. 
 
 
 
-#                                          SPECIFICATION OF BLDC FAN:
+# Specification of BLDC fan:
 *	Air delivery-270
 *	Input voltage-140-285
 *	Frequency-48-52
@@ -46,7 +46,7 @@ The cooler night-time air can be used to bring down the temperature of air and c
 6. We are using BLDC(Brushless Direct Current) which comparitively produces less heat. The BLDC Motor increases the lifespan of ceiling fan and it is also flexible to alter the RPM of the fan.
 7. Here we use smart grid technology to power our fan & we paint the blades of our fan by using Nanocomposite paint,to increase the throughput of our fan.
 
-#                                           Fuzzy Logic Controller
+# Fuzzy Logic Controller
 
 * The Fuzzy Logic Controller block implements a fuzzy inference system (FIS) in Simulink®. You specify the FIS to evaluate using the FIS name parameter.
 
@@ -66,11 +66,11 @@ temperature sensor whose output is linearly proportional to Celsius Temperature.
 
 * It is the main challenge to intelligent fan 
 
-#                               Temperature based Speed Control of BLDC Fan
+# Temperature based Speed Control of BLDC Fan
 
 Temperature proportional speed control is accomplished using pulse width modulation(PWM). The input value of temperature is proportional to the speed, and set the calibration range according to the speed requirement.
 
-#                                    COATINGS
+# Coatings
 
 ![download](https://github.com/yuvieeee/Intelligent-Fan-Air-Cooling-System/assets/114850519/cbea4b9c-cd4a-46ee-9249-74cabb418ed0)
 
