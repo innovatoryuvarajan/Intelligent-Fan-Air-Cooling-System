@@ -12,6 +12,11 @@ The cooler night-time air can be used to bring down the temperature of air and c
 
 BLDC motor runs on low current so can run longer on solar, regular, and inverters.
 
+#                                             Novelty
+1. We made Nanocomposite paint coating by using **Novel magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) polymer** , comparatively provides the cool air which is used to attain the required temperature by low power consumption.
+2. Here we using innovative fuzzy logic controller parameters and dynamic power gain parameters, thus we can able to change the RPM of the fan based on our needs. 
+
+
 #                                          SPECIFICATION OF BLDC FAN:
 •	Air delivery-270
 •	Input voltage-140-285
