@@ -10,13 +10,13 @@ The cooler night-time air can be used to bring down the temperature of air and c
 
 
 #                                   REAL WORLD APPLICATION OF THE ADOPTED APPROACH 
-
-1. A closed-loop controller receives power from the BLDC via an inverter.
-2. Current passes through its windings to control the speed and torque of the control unit.
-3. BLDC motors have higher efficiency, with low maintenance requirements. 
-4. They are more stable and long-lasting.
-
-BLDC motor runs on low current, so that it can run longer on solar, regular, and inverters.
+ *Step into a future where comfort meets sustainability. Our Intelligent Fan Air Cooling System isn't merely a concept; it's a revolution in home climate control.
+*Imagine a home where the fan isn't simply a device; it's an intelligent companion. By utilizing night-time cool air, it actively regulates temperatures, reducing the need for energy-intensive cooling during the day.
+*Why this project? It's not solely about efficiency; it's a commitment to sustainable living. The BLDC motor, powered by solar and conventional sources, signifies a shift towards cleaner, longer-lasting technology. It's not merely a motor; it's a greener tomorrow.
+*But what sets us apart? Our Nanocomposite paint. It's not just a coating; it's a cool embrace. By reflecting sunlight and reducing surface temperatures, it transforms homes into havens. This isn't merely paint; it's a promise of comfort in every stroke.
+*Enter the Fuzzy Logic Controller. It's not merely about temperature control; it's about adapting to your lifestyle. By intelligently adjusting fan speed, it ensures a seamless blend of technology and comfort. It's not merely a controller; it's a personalized climate concierge.
+*The Temperature Sensor isn't merely a gadget; it's a guardian of your comfort. Sensing shifts in temperature, it communicates with the fan, ensuring a constant, soothing environment. It's not merely a sensor; it's a silent sentinel.
+*Why embark on this journey? It's not just about innovation; it's about a better quality of life. By reducing the need for full-speed operation at night, our system is a small yet impactful step towards sustainability. It's not merely a project; it's a path to a harmonious coexistence with nature.And what lies ahead? We don't merely stop; we evolve. Integrating smart grid mechanisms, IoT technology, and human density-based speed control, our vision extends beyond the ordinary. It's not merely about the fan; it's about a future where technology adapts to human needs.
 
 #                                             Novelty
 1. We have made Nanocomposite paint coating by using **Novel magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) polymer** , which comparatively provides the cooler air which is used to attain the required temperature through low power consumption.
