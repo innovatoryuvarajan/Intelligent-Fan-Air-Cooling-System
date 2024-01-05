@@ -25,12 +25,12 @@ BLDC motor runs on low current so can run longer on solar, regular, and inverter
 
 
 #                                          SPECIFICATION OF BLDC FAN:
-•	Air delivery-270
-•	Input voltage-140-285
-•	Frequency-48-52
-•	Power factor-0.98
-•	Bearing-ZZ shielded double ball bearing
-•	Remote-speed control and booster mode.
+*	Air delivery-270
+*	Input voltage-140-285
+*	Frequency-48-52
+*	Power factor-0.98
+*	Bearing-ZZ shielded double ball bearing
+*	Remote-speed control and booster mode.
 
 # Block Diagram :
 ![Blank diagram (1)_page-0001](https://github.com/yuvieeee/Intelligent-Fan-Air-Cooling-System/assets/114850519/228e26f3-8b1c-4f0a-92e3-33bdc59b00cc)
