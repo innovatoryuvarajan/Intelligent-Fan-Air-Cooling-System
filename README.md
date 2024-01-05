@@ -54,7 +54,7 @@ BLDC motor runs on low current, so that it can run longer on solar, regular, and
 
 *To display the fuzzy inference process in the Rule Viewer during simulation, use the Fuzzy Logic Controller with Ruleviewer block.
 
-*Here we using a fuzzy logic in between two areas(outdoor temperature & indoor temperature) these two different temperatures are detected by using temperature sensors(LM35)
+*Here we are using a fuzzy logic in between two areas(outdoor temperature & indoor temperature) these two different temperatures are detected by using temperature sensors(LM35)
 
 *Temperature Sensor:
                  We are using LM 35 as temperature sensor. LM 35 is a precision
@@ -62,7 +62,7 @@ temperature sensor whose output is linearly proportional to Celsius Temperature.
 
 *After mesuring the temperature it will be headed to constant temperature
 
-*And then depending upon the temperature, RPM controls takes place.
+*And then depending upon the temperature, RPM control takes place.
 
 *It is the main challenge to intelligent fan 
 
@@ -77,7 +77,7 @@ Temperature proportional speed control is accomplished using pulse width modulat
 
 * We are introducing the specific coating for cooling system in fan blades
 
-* By using used ultra-white and ultra-emissive magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) , nano-composite is being prepared from materials that are abundant on earth, cheap, non-toxic and harmless.
+* By using ultra-white and ultra-emissive magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) , nano-composite is being prepared from materials that are abundant on earth, cheap, non-toxic and harmless.
 
 *Initially, polymer powders were transformed into a solution using solvent then, dielectric nanoparticles are dispersed inside the polymer matrix. After preparation, different spectroscopic techniques were used to characterize the optical properties of the prepared polymer nanocomposite paint. 
 
