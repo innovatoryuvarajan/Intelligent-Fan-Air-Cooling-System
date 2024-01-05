@@ -79,13 +79,13 @@ Temperature proportional speed control is accomplished using pulse width modulat
 
 * By using ultra-white and ultra-emissive magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) , nano-composite is being prepared from materials that are abundant on earth, cheap, non-toxic and harmless.
 
-*Initially, polymer powders were transformed into a solution using solvent then, dielectric nanoparticles are dispersed inside the polymer matrix. After preparation, different spectroscopic techniques were used to characterize the optical properties of the prepared polymer nanocomposite paint. 
+* Initially, polymer powders were transformed into a solution using solvent then, dielectric nanoparticles are dispersed inside the polymer matrix. After preparation, different spectroscopic techniques were used to characterize the optical properties of the prepared polymer nanocomposite paint. 
 
-*The optimized MgO-PVDF with a dielectric nanoparticles resulted in large solar reflectance of 96.3% and a record high thermal emission of 98.5% due to Mg─O bond vibrations, and other stretching/bonding vibrations from the polymer.
+* The optimized MgO-PVDF with a dielectric nanoparticles resulted in large solar reflectance of 96.3% and a record high thermal emission of 98.5% due to Mg─O bond vibrations, and other stretching/bonding vibrations from the polymer.
 
 * The nanocomposite paint exhibits  water-resistant hydrophobic properties and can easily be coated on stainless steel with high uniformity and good adhesion.
 
-*“Our innovative research has led to the development of a cost-effective and environmentally sustainable paint capable of reducing surface temperatures (including buildings, tiles, pavers, etc.) by over 10°C during hot summer day.
+* “Our innovative research has led to the development of a cost-effective and environmentally sustainable paint capable of reducing surface temperatures (including buildings, tiles, pavers, etc.) by over 10°C during hot summer day.
 
 # Further Development:
 1. Power the fan by using smart grid mechanism for sustainability development.
