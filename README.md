@@ -20,6 +20,10 @@ BLDC motor runs on low current so can run longer on solar, regular, and inverter
 •	Bearing-ZZ shielded double ball bearing
 •	Remote-speed control and booster mode.
 
+# BLOCK DIAGRAM :
+![Blank diagram (1)_page-0001](https://github.com/yuvieeee/Intelligent-Fan-Air-Cooling-System/assets/114850519/228e26f3-8b1c-4f0a-92e3-33bdc59b00cc)
+
+
 #                                            BLOCKS AND OPERATIONS
 
 ~ Fuzzy Logic Controller
