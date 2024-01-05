@@ -21,7 +21,7 @@ BLDC motor runs on low current, so that it can run longer on solar, regular, and
 #                                             Novelty
 1. We have made Nanocomposite paint coating by using **Novel magnesium oxide (MgO)-polyvinylidene fluoride (PVDF) polymer** , which comparatively provides the cooler air which is used to attain the required temperature through low power consumption.
 2. Here we are using innovative fuzzy logic controller parameters and dynamic power gain parameters, hence we can able to change the RPM of the fan according to our needs.
-3. We can be able to maintain the temperature of the room in constant throughout the day & there will be no need to operate the fan in full speed during night time. This serves as a small step towards the sustainability development. 
+3. We shall maintain the temperature of the room in constant throughout the day & there will be no need of operating the fan in full speed during night time. This serves as a small step towards the sustainability development. 
 
 
 
@@ -39,10 +39,10 @@ BLDC motor runs on low current, so that it can run longer on solar, regular, and
 
 # Block Diagram Explanation:
 1. The indoor and outdoor temperature is measured using LM35 Temperature sensor.
-2. The output from LM35 is feed into fuzzy logic controller.
+2. The output from LM35 is fed into the fuzzy logic controller.
 3. Fuzzy logic controller provides the calculated temperature value.
 4. By using the calculated temperature value and power gain value we are controlling the RPM (Revolutions Per Minute) of our BLDC (Brushless Direct Current) fan.
-5. The power gain values depend on  various parameters of the fan like number of wings of the fan, size of the wings, throughput from the fan, Maximum & Minimum RPM of the Fan etc.,;
+5. The power gain values depend on  various parameters of the fan like number of wings, size of the wings, throughput from the fan, Maximum & Minimum RPM of the Fan etc.,;
 6. We are using BLDC(Brushless Direct Current) which comparitively produces less heat. The BLDC Motor increases the lifespan of ceiling fan and it is also flexible to alter the RPM of the fan.
 7. Here we use smart grid technology to power our fan & we paint the blades of our fan by using Nanocomposite paint,to increase the throughput of our fan.
 
