@@ -9,7 +9,7 @@ The cooler night-time air can be used to bring down the temperature of air and c
 
 
 
-#                                   REAL WORLD APPLICABILITY OF THE APPROACH ADOPTED
+#                                   REAL WORLD APPLICATION OF THE ADOPTED APPROACH 
 
 1. A closed-loop controller receives power from the BLDC via an inverter.
 2. Current passes through its windings to control the speed and torque of the control unit.
