@@ -43,7 +43,7 @@ BLDC motor runs on low current so can run longer on solar, regular, and inverter
 3. Fuzzy logic controller provides the calculated temperature value.
 4. By using the calculated temperature value and power gain value we are controlling the RPM (Revolutions Per Minute) of our BLDC (Brushless Direct Current) fan.
 5. The power gain values depend on  various parameters of the fan like number of wings of the fan, size of the wings, throughput from the fan, Maximum & Minimum RPM of the Fan etc.,;
-6. We are using BLDC(Brushless Direct Current) for comparitively less heat generated in BLDC Motor hence its increases lifespan of ceiling fan and it ualso flexible to alter the RPM of the fan.
+6. We are using BLDC(Brushless Direct Current) which comparitively produces less heat. The BLDC Motor increases the lifespan of ceiling fan and it is also flexible to alter the RPM of the fan.
 7. Here we use smart grid technology to power our fan & we paint the blades of our fan by using Nanocomposite paint,to increase the throughput of our fan.
 
 #                                           Fuzzy Logic Controller
