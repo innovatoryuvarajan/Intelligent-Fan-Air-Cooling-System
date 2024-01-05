@@ -48,23 +48,23 @@ BLDC motor runs on low current, so that it can run longer on solar, regular, and
 
 #                                           Fuzzy Logic Controller
 
-*The Fuzzy Logic Controller block implements a fuzzy inference system (FIS) in Simulink®. You specify the FIS to evaluate using the FIS name parameter.
+* The Fuzzy Logic Controller block implements a fuzzy inference system (FIS) in Simulink®. You specify the FIS to evaluate using the FIS name parameter.
 
-*For more information on fuzzy inference, see Fuzzy Inference Process.
+* For more information on fuzzy inference, see Fuzzy Inference Process.
 
-*To display the fuzzy inference process in the Rule Viewer during simulation, use the Fuzzy Logic Controller with Ruleviewer block.
+* To display the fuzzy inference process in the Rule Viewer during simulation, use the Fuzzy Logic Controller with Ruleviewer block.
 
-*Here we are using a fuzzy logic in between two areas(outdoor temperature & indoor temperature) these two different temperatures are detected by using temperature sensors(LM35)
+* Here we are using a fuzzy logic in between two areas(outdoor temperature & indoor temperature) these two different temperatures are detected by using temperature sensors(LM35)
 
-*Temperature Sensor:
+* Temperature Sensor:
                  We are using LM 35 as temperature sensor. LM 35 is a precision
 temperature sensor whose output is linearly proportional to Celsius Temperature. The LM35 is rated to operate from -55° Centigrade to 150° Centigrade with a linear scale factor of +10mv/° C
 
-*After mesuring the temperature it will be headed to constant temperature
+* After mesuring the temperature it will be headed to constant temperature
 
-*And then depending upon the temperature, RPM control takes place.
+* And then depending upon the temperature, RPM control takes place.
 
-*It is the main challenge to intelligent fan 
+* It is the main challenge to intelligent fan 
 
 #                               Temperature based Speed Control of BLDC Fan
 
