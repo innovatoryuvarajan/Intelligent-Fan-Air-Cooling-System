@@ -1,6 +1,6 @@
 # Intelligent-Fan-Air-Cooling-System
 Repository for MATLAB simulink challenge project hub sustainability and renemable energy challenge under the theme of Intelligent Fan Air Cooling System
-Night-time temperatures are generally lower than daytime temperatures. we are modelling a simple fan mechanism that pumps-in or extracts air based on temperature differential between inside and outside.  
+Night-time temperatures are generally lower than daytime temperatures. we are modelling a simple fan mechanism that **pumps-in** or **extracts air** based on temperature differential between inside and outside.  
 The cooler night-time air can be used to bring down the temperature of air and capacitive elements within the house. Over the course of the day, the air and the cooler structure will keep temperatures lower, until it crosses the evening or night-time temperatures
 
 #                                   REAL WORLD APPLICABILITY OF THE APPROACH ADOPTED
