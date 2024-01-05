@@ -20,15 +20,18 @@ BLDC motor runs on low current so can run longer on solar, regular, and inverter
 •	Bearing-ZZ shielded double ball bearing
 •	Remote-speed control and booster mode.
 
-# BLOCK DIAGRAM :
+# Block Diagram :
 ![Blank diagram (1)_page-0001](https://github.com/yuvieeee/Intelligent-Fan-Air-Cooling-System/assets/114850519/228e26f3-8b1c-4f0a-92e3-33bdc59b00cc)
 
 
-#                                            BLOCKS AND OPERATIONS
-
-~ Fuzzy Logic Controller
-
-~ Default BLDC Controller
+# Block Diagram Explanation:
+1. Measures the indoor and outdoor temperature by using LM35 Temperature sensor.
+2. The output from LM35 is feed into fuzzy logic controller.
+3. Fuzzy logic controller provides the calculated temperature value.
+4. By using the calculated temperature value and power gain value we controlling the RPM(Revolutions Per Minute) of our BLDC(Brushless Direct Current) fan.
+5. The power gain values depends on the various parameters of the fan like Number of wings of the fan, Size of the wings, Throughput from the fan, Maximum & Minimum RPM of the Fan and etc;
+6. we use BLDC(Brushless Direct Current) for comparitly less heat generated in BLDC Motor hence its increases lifespan of ceiling fan and also flexible to alter the RPM of the fan.
+7. Here we use smart grid technology to power our fan & we painting the blades of our fan by using Nanocomposite paint coation,to increase the throughput of our fan.
 
 #                                           Fuzzy Logic Controller
 
